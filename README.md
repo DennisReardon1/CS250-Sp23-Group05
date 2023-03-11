@@ -5,7 +5,7 @@
 - John Fajardo
 - Mohammad Nabi Noorzai
 
-# Overview of the contents for the Software Specifications
+## Overview of the contents for the Software Specifications
 Bluff Detection Alarm System is designed to keep people, vehicles, and trains away from erosion threats over Delmar, California seashore. The system is designed with video surveillance which detects land falling or movement. After the threat is detected, it will trigger an alarm to keep people aware of the dangerous zone. 
 
 ### The following information will be provided in the specification document:
