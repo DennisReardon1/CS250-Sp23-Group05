@@ -1,5 +1,5 @@
 # CS250-Sp23-Group05
-CS250-Sp23-Group05
+## “Unstable Bluff” Detection System
 
 - Dennis Reardon
 - John Fajardo
