@@ -30,5 +30,6 @@ Bluff Detection Alarm System is designed to keep people, vehicles, and trains aw
 **-Descriptions of every factor for developer knowledge and maintenance.**
 
 -Such as explanations for certain movements among the system.
+
 ![](https://media3.giphy.com/media/yKxo7c9Q6pZoUzAfPu/giphy.gif?cid=ecf05e47xv944dw4vdu2x6le8t6awebhboo05derd8qmj759&rid=giphy.gif)
 
