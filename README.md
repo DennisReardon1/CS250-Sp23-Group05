@@ -8,6 +8,9 @@
 ## Overview of the contents for the Software Specifications
 Bluff Detection Alarm System is designed to keep people, vehicles, and trains away from erosion threats over Delmar, California seashore. The system is designed with video surveillance which detects land falling or movement. After the threat is detected, it will trigger an alarm to keep people aware of the dangerous zone. 
 
+### Adding the Test Plan
+In the next step, our group outlines a test plan for the software system we designed in Assignment 2, and adds it to our Software Design Specification document.
+
 ### The following information will be provided in the specification document:
 
 
