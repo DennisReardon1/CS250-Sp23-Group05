@@ -32,7 +32,7 @@ In the next step, our group outlines a test plan for the software system we desi
 
 **-Descriptions of every factor for developer knowledge and maintenance.**
 
--Such as explanations for certain movements among the system.
+-Such as explanations for certain movements among the system and the various actors
 
 ![](https://media3.giphy.com/media/yKxo7c9Q6pZoUzAfPu/giphy.gif?cid=ecf05e47xv944dw4vdu2x6le8t6awebhboo05derd8qmj759&rid=giphy.gif)
 
